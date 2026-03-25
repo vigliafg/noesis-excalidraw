@@ -1,0 +1,5 @@
+{
+  "name": "Excalidraw Local",
+  "description": "A standalone Excalidraw app that saves and loads files directly to your filesystem, built with React and Vite.",
+  "requestFramePermissions": []
+}
